@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-Open the local URL printed by Vite. Run `npm run typecheck` to check TypeScript, `npm run build` to type-check and create the production bundle, or `npm run preview` to preview it locally.
+Open the local URL printed by Next.js. Run `npm run typecheck` to check TypeScript, `npm run build` to create the production build, and `npm start` to serve that build locally.
 
 ## Features
 
